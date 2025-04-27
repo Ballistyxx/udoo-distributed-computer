@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ballistyxx/eliferrara/master/assets/Distributed-Computing/full-assembly.webp" alt="Distributed Computing Cluster" width="50%" ALIGN="left" HSPACE="0" VSPACE="20"/>
 
-<img src="https://raw.githubusercontent.com/Ballistyxx/eliferrara/master/assets/Distributed-Computing/udoo-quad-top.webp" alt="Cluster Desktop Screenshot" width="50%" ALIGN="right" HSPACE="0" VSPACE="120"/>
+<img src="https://raw.githubusercontent.com/Ballistyxx/eliferrara/master/assets/Distributed-Computing/udoo-quad-top.webp" alt="Cluster Desktop Screenshot" width="50%" ALIGN="right" HSPACE="0" VSPACE="20"/>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
