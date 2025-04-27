@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/Ballistyxx/eliferrara/master/assets/Distributed-Computing/udoo-quad-top.webp" alt="Cluster Desktop Screenshot" width="50%" ALIGN="right" HSPACE="0" VSPACE="120"/>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## Overview
 This project is a **DIY Distributed Computing Cluster** built from **13 Udoo Quad SBCs**, running **Armbian Linux**, and tied together with custom 3D-printed enclosures, a cooling manifold, and a custom-built power distribution board.
 
